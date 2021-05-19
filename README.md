@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @LukePlayzz11-cmd
+- 👋 Hi, I’m @LukePlayzz11
+- I am a natrually Roblox Player
 - 👀 I’m interested in Roblox
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on 
